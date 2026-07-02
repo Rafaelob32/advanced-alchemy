@@ -1,0 +1,54 @@
+[
+  {
+    "simbolo": "duplicate-code",
+    "ocorrencias": 351
+  },
+  {
+    "simbolo": "too-many-arguments",
+    "ocorrencias": 198
+  },
+  {
+    "simbolo": "too-many-locals",
+    "ocorrencias": 61
+  },
+  {
+    "simbolo": "too-few-public-methods",
+    "ocorrencias": 44
+  },
+  {
+    "simbolo": "too-many-ancestors",
+    "ocorrencias": 29
+  },
+  {
+    "simbolo": "too-many-positional-arguments",
+    "ocorrencias": 27
+  },
+  {
+    "simbolo": "too-many-instance-attributes",
+    "ocorrencias": 18
+  },
+  {
+    "simbolo": "too-many-branches",
+    "ocorrencias": 16
+  },
+  {
+    "simbolo": "too-many-public-methods",
+    "ocorrencias": 10
+  },
+  {
+    "simbolo": "too-many-return-statements",
+    "ocorrencias": 9
+  },
+  {
+    "simbolo": "too-many-statements",
+    "ocorrencias": 8
+  },
+  {
+    "simbolo": "no-else-return",
+    "ocorrencias": 6
+  },
+  {
+    "simbolo": "too-many-boolean-expressions",
+    "ocorrencias": 2
+  }
+]

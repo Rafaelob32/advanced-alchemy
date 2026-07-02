@@ -1,0 +1,751 @@
+[
+  {
+    "arquivo": "advanced_alchemy/utils/text.py",
+    "convention": 1,
+    "total": 352,
+    "refactor": 351
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/_async.py",
+    "convention": 168,
+    "total": 256,
+    "refactor": 72,
+    "warning": 8,
+    "error": 8
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/_sync.py",
+    "convention": 166,
+    "total": 254,
+    "refactor": 72,
+    "warning": 8,
+    "error": 8
+  },
+  {
+    "arquivo": "advanced_alchemy/cli.py",
+    "convention": 81,
+    "total": 94,
+    "warning": 4,
+    "refactor": 7,
+    "error": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/memory/_async.py",
+    "convention": 22,
+    "total": 70,
+    "error": 2,
+    "refactor": 25,
+    "warning": 21
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/memory/_sync.py",
+    "convention": 21,
+    "total": 69,
+    "error": 2,
+    "refactor": 25,
+    "warning": 21
+  },
+  {
+    "arquivo": "advanced_alchemy/_typing.py",
+    "convention": 7,
+    "total": 68,
+    "refactor": 10,
+    "error": 1,
+    "warning": 50
+  },
+  {
+    "arquivo": "advanced_alchemy/config/engine.py",
+    "convention": 66,
+    "total": 67,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/service/typing.py",
+    "convention": 1,
+    "total": 65,
+    "error": 64
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/sanic/config.py",
+    "convention": 52,
+    "total": 61,
+    "error": 3,
+    "refactor": 2,
+    "warning": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/providers.py",
+    "convention": 42,
+    "total": 60,
+    "error": 2,
+    "refactor": 16
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/dto.py",
+    "convention": 40,
+    "total": 58,
+    "error": 8,
+    "warning": 7,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/service/_async.py",
+    "convention": 26,
+    "total": 54,
+    "refactor": 26,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/service/_sync.py",
+    "convention": 24,
+    "total": 52,
+    "refactor": 26,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/serialization.py",
+    "convention": 37,
+    "total": 52,
+    "refactor": 4,
+    "warning": 8,
+    "error": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/session.py",
+    "convention": 30,
+    "total": 50,
+    "error": 7,
+    "warning": 10,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/base.py",
+    "convention": 25,
+    "total": 46,
+    "refactor": 16,
+    "warning": 2,
+    "error": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/config/common.py",
+    "convention": 42,
+    "total": 45,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/_listeners.py",
+    "convention": 31,
+    "total": 44,
+    "warning": 8,
+    "refactor": 5
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/store.py",
+    "convention": 27,
+    "total": 44,
+    "error": 10,
+    "warning": 4,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/fastapi/providers.py",
+    "convention": 24,
+    "total": 41,
+    "error": 2,
+    "refactor": 11,
+    "warning": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/starlette/config.py",
+    "convention": 26,
+    "total": 39,
+    "error": 3,
+    "warning": 7,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/filters.py",
+    "convention": 12,
+    "total": 35,
+    "refactor": 3,
+    "warning": 20
+  },
+  {
+    "arquivo": "advanced_alchemy/service/_util.py",
+    "convention": 31,
+    "total": 33,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/_util.py",
+    "convention": 19,
+    "total": 28,
+    "error": 1,
+    "refactor": 8
+  },
+  {
+    "arquivo": "advanced_alchemy/types/encrypted_string.py",
+    "convention": 19,
+    "total": 28,
+    "warning": 7,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/file.py",
+    "convention": 22,
+    "total": 28,
+    "refactor": 4,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/fastapi/extension.py",
+    "convention": 18,
+    "total": 27,
+    "warning": 3,
+    "refactor": 6
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/config/asyncio.py",
+    "convention": 16,
+    "total": 27,
+    "error": 2,
+    "warning": 8,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/memory/base.py",
+    "convention": 24,
+    "total": 27,
+    "refactor": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/cache/manager.py",
+    "convention": 14,
+    "total": 26,
+    "warning": 8,
+    "refactor": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/types/vector.py",
+    "convention": 17,
+    "total": 26,
+    "warning": 7,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/config/sync.py",
+    "convention": 15,
+    "total": 24,
+    "error": 2,
+    "warning": 6,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/operations.py",
+    "convention": 11,
+    "total": 22,
+    "warning": 1,
+    "refactor": 10
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/sanic/extension.py",
+    "convention": 19,
+    "total": 22,
+    "error": 1,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/cache/_null.py",
+    "convention": 12,
+    "total": 21,
+    "refactor": 1,
+    "warning": 8
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/backends/fsspec.py",
+    "convention": 14,
+    "total": 21,
+    "warning": 7
+  },
+  {
+    "arquivo": "advanced_alchemy/alembic/commands.py",
+    "convention": 14,
+    "total": 20,
+    "refactor": 6
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/plugin.py",
+    "convention": 17,
+    "total": 20,
+    "error": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/flask/config.py",
+    "convention": 15,
+    "total": 19,
+    "error": 1,
+    "warning": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/backends/obstore.py",
+    "convention": 14,
+    "total": 19,
+    "error": 3,
+    "refactor": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/config/asyncio.py",
+    "convention": 16,
+    "total": 18,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/starlette/extension.py",
+    "convention": 15,
+    "total": 18,
+    "error": 1,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/exceptions.py",
+    "convention": 13,
+    "total": 15,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/exception_handler.py",
+    "convention": 3,
+    "total": 15,
+    "error": 6,
+    "warning": 5,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/alembic/utils.py",
+    "convention": 14,
+    "total": 14
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/serialization.py",
+    "convention": 12,
+    "total": 14,
+    "error": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/json.py",
+    "convention": 6,
+    "total": 14,
+    "warning": 6,
+    "refactor": 1,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/sync_tools.py",
+    "convention": 5,
+    "total": 14,
+    "refactor": 3,
+    "warning": 6
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/fixtures.py",
+    "convention": 11,
+    "total": 13,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/config/sync.py",
+    "convention": 9,
+    "total": 12,
+    "error": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/unique.py",
+    "convention": 8,
+    "total": 12,
+    "warning": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/types/totp.py",
+    "convention": 6,
+    "total": 12,
+    "error": 2,
+    "warning": 1,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/_serialization.py",
+    "convention": 2,
+    "total": 10,
+    "error": 8
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/uuid.py",
+    "convention": 6,
+    "total": 10,
+    "error": 1,
+    "refactor": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/deprecation.py",
+    "convention": 7,
+    "total": 9,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/password_hash/base.py",
+    "convention": 6,
+    "total": 8,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/bigint.py",
+    "convention": 2,
+    "total": 7,
+    "error": 3,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/boolean.py",
+    "convention": 2,
+    "total": 7,
+    "warning": 3,
+    "refactor": 1,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/data_type.py",
+    "convention": 4,
+    "total": 7,
+    "warning": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/cli_tools.py",
+    "convention": 2,
+    "total": 7,
+    "warning": 4,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/portals.py",
+    "convention": 5,
+    "total": 7,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/flask/extension.py",
+    "convention": 3,
+    "total": 6,
+    "error": 1,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/__init__.py",
+    "convention": 4,
+    "total": 6,
+    "error": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/config/engine.py",
+    "convention": 5,
+    "total": 6,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/nanoid.py",
+    "convention": 4,
+    "total": 6,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/sentinel.py",
+    "convention": 4,
+    "total": 6,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/slug.py",
+    "convention": 2,
+    "total": 6,
+    "error": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/guid.py",
+    "convention": 2,
+    "total": 6,
+    "warning": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/mutables.py",
+    "convention": 6,
+    "total": 6
+  },
+  {
+    "arquivo": "advanced_alchemy/types/password_hash/argon2.py",
+    "convention": 3,
+    "total": 6,
+    "error": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/dataclass.py",
+    "convention": 4,
+    "total": 6,
+    "refactor": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/dependencies.py",
+    "convention": 6,
+    "total": 6
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/fastapi/cli.py",
+    "convention": 4,
+    "total": 5,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/cli.py",
+    "convention": 4,
+    "total": 5,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/routing/session.py",
+    "convention": 1,
+    "total": 5,
+    "warning": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/types/datetime.py",
+    "convention": 3,
+    "total": 5,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/base.py",
+    "convention": 5,
+    "total": 5
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/flask/cli.py",
+    "convention": 3,
+    "total": 4,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/flask/utils.py",
+    "error": 1,
+    "total": 4,
+    "warning": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/_utils.py",
+    "convention": 4,
+    "total": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/config/common.py",
+    "convention": 3,
+    "total": 4,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/starlette/__init__.py",
+    "convention": 4,
+    "total": 4
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/typing.py",
+    "convention": 3,
+    "total": 4,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/typing.py",
+    "convention": 2,
+    "total": 3,
+    "error": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/fastapi/__init__.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/flask/__init__.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/__init__.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/_slots_base.py",
+    "convention": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/sanic/__init__.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/audit.py",
+    "convention": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/memory/__init__.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/_typing.py",
+    "warning": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/registry.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/session_tracker.py",
+    "warning": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/password_hash/one_time_code.py",
+    "refactor": 2,
+    "total": 3,
+    "warning": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/password_hash/passlib.py",
+    "convention": 1,
+    "total": 3,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/password_hash/pwdlib.py",
+    "convention": 1,
+    "total": 3,
+    "warning": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/config/__init__.py",
+    "convention": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/config/routing.py",
+    "convention": 1,
+    "total": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/fastapi/config.py",
+    "convention": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/routing/selectors.py",
+    "warning": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/_utils.py",
+    "convention": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/utils/singleton.py",
+    "convention": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "advanced_alchemy/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/__main__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/cache/config.py",
+    "refactor": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/extensions/litestar/plugins/init/config/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/mixins/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/repository/_typing.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/routing/maker.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/service/__init__.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/service/pagination.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/identity.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "advanced_alchemy/types/file_object/__init__.py",
+    "convention": 1,
+    "total": 1
+  }
+]
