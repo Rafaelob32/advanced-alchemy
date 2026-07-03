@@ -1,0 +1,1190 @@
+{
+  "advanced_alchemy\\base.py": {
+    "loc": 707,
+    "lloc": 242,
+    "sloc": 275,
+    "comments": 14,
+    "multi": 259,
+    "blank": 164,
+    "single_comments": 9
+  },
+  "advanced_alchemy\\cli.py": {
+    "loc": 639,
+    "lloc": 324,
+    "sloc": 515,
+    "comments": 25,
+    "multi": 21,
+    "blank": 82,
+    "single_comments": 21
+  },
+  "advanced_alchemy\\exceptions.py": {
+    "loc": 350,
+    "lloc": 135,
+    "sloc": 201,
+    "comments": 6,
+    "multi": 86,
+    "blank": 62,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\filters.py": {
+    "loc": 1282,
+    "lloc": 453,
+    "sloc": 444,
+    "comments": 43,
+    "multi": 510,
+    "blank": 264,
+    "single_comments": 64
+  },
+  "advanced_alchemy\\operations.py": {
+    "loc": 476,
+    "lloc": 248,
+    "sloc": 267,
+    "comments": 24,
+    "multi": 109,
+    "blank": 87,
+    "single_comments": 13
+  },
+  "advanced_alchemy\\typing.py": {
+    "loc": 108,
+    "lloc": 12,
+    "sloc": 94,
+    "comments": 2,
+    "multi": 5,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\_listeners.py": {
+    "loc": 743,
+    "lloc": 454,
+    "sloc": 458,
+    "comments": 32,
+    "multi": 88,
+    "blank": 145,
+    "single_comments": 52
+  },
+  "advanced_alchemy\\_serialization.py": {
+    "loc": 57,
+    "lloc": 14,
+    "sloc": 36,
+    "comments": 5,
+    "multi": 8,
+    "blank": 9,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\_typing.py": {
+    "loc": 438,
+    "lloc": 208,
+    "sloc": 277,
+    "comments": 89,
+    "multi": 13,
+    "blank": 95,
+    "single_comments": 53
+  },
+  "advanced_alchemy\\__init__.py": {
+    "loc": 34,
+    "lloc": 3,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\__main__.py": {
+    "loc": 10,
+    "lloc": 6,
+    "sloc": 5,
+    "comments": 2,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\__metadata__.py": {
+    "loc": 16,
+    "lloc": 13,
+    "sloc": 10,
+    "comments": 5,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\alembic\\commands.py": {
+    "loc": 391,
+    "lloc": 124,
+    "sloc": 210,
+    "comments": 4,
+    "multi": 118,
+    "blank": 59,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\alembic\\utils.py": {
+    "loc": 144,
+    "lloc": 78,
+    "sloc": 107,
+    "comments": 8,
+    "multi": 8,
+    "blank": 25,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\alembic\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\alembic\\templates\\asyncio\\env.py": {
+    "loc": 107,
+    "lloc": 40,
+    "sloc": 66,
+    "comments": 4,
+    "multi": 14,
+    "blank": 24,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\alembic\\templates\\sync\\env.py": {
+    "loc": 103,
+    "lloc": 38,
+    "sloc": 64,
+    "comments": 4,
+    "multi": 14,
+    "blank": 22,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\cache\\config.py": {
+    "loc": 119,
+    "lloc": 33,
+    "sloc": 15,
+    "comments": 0,
+    "multi": 68,
+    "blank": 35,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\cache\\manager.py": {
+    "loc": 877,
+    "lloc": 362,
+    "sloc": 406,
+    "comments": 25,
+    "multi": 291,
+    "blank": 153,
+    "single_comments": 27
+  },
+  "advanced_alchemy\\cache\\serializers.py": {
+    "loc": 119,
+    "lloc": 36,
+    "sloc": 40,
+    "comments": 6,
+    "multi": 40,
+    "blank": 31,
+    "single_comments": 8
+  },
+  "advanced_alchemy\\cache\\_null.py": {
+    "loc": 171,
+    "lloc": 58,
+    "sloc": 72,
+    "comments": 0,
+    "multi": 50,
+    "blank": 47,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\cache\\__init__.py": {
+    "loc": 102,
+    "lloc": 6,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 70,
+    "blank": 20,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\config\\asyncio.py": {
+    "loc": 198,
+    "lloc": 94,
+    "sloc": 97,
+    "comments": 14,
+    "multi": 51,
+    "blank": 40,
+    "single_comments": 10
+  },
+  "advanced_alchemy\\config\\common.py": {
+    "loc": 353,
+    "lloc": 203,
+    "sloc": 135,
+    "comments": 8,
+    "multi": 142,
+    "blank": 58,
+    "single_comments": 18
+  },
+  "advanced_alchemy\\config\\engine.py": {
+    "loc": 152,
+    "lloc": 102,
+    "sloc": 44,
+    "comments": 0,
+    "multi": 95,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\config\\routing.py": {
+    "loc": 140,
+    "lloc": 76,
+    "sloc": 50,
+    "comments": 2,
+    "multi": 34,
+    "blank": 39,
+    "single_comments": 17
+  },
+  "advanced_alchemy\\config\\sync.py": {
+    "loc": 179,
+    "lloc": 87,
+    "sloc": 85,
+    "comments": 10,
+    "multi": 44,
+    "blank": 41,
+    "single_comments": 9
+  },
+  "advanced_alchemy\\config\\types.py": {
+    "loc": 26,
+    "lloc": 13,
+    "sloc": 6,
+    "comments": 0,
+    "multi": 11,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\config\\__init__.py": {
+    "loc": 37,
+    "lloc": 7,
+    "sloc": 36,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\fastapi\\cli.py": {
+    "loc": 42,
+    "lloc": 23,
+    "sloc": 21,
+    "comments": 2,
+    "multi": 8,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\extensions\\fastapi\\config.py": {
+    "loc": 7,
+    "lloc": 2,
+    "sloc": 6,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\fastapi\\extension.py": {
+    "loc": 177,
+    "lloc": 58,
+    "sloc": 129,
+    "comments": 7,
+    "multi": 24,
+    "blank": 24,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\fastapi\\providers.py": {
+    "loc": 784,
+    "lloc": 296,
+    "sloc": 622,
+    "comments": 84,
+    "multi": 27,
+    "blank": 99,
+    "single_comments": 36
+  },
+  "advanced_alchemy\\extensions\\fastapi\\__init__.py": {
+    "loc": 38,
+    "lloc": 9,
+    "sloc": 30,
+    "comments": 0,
+    "multi": 4,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\flask\\cli.py": {
+    "loc": 52,
+    "lloc": 25,
+    "sloc": 21,
+    "comments": 2,
+    "multi": 14,
+    "blank": 17,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\flask\\config.py": {
+    "loc": 263,
+    "lloc": 151,
+    "sloc": 127,
+    "comments": 9,
+    "multi": 72,
+    "blank": 54,
+    "single_comments": 10
+  },
+  "advanced_alchemy\\extensions\\flask\\extension.py": {
+    "loc": 228,
+    "lloc": 126,
+    "sloc": 124,
+    "comments": 11,
+    "multi": 42,
+    "blank": 46,
+    "single_comments": 16
+  },
+  "advanced_alchemy\\extensions\\flask\\utils.py": {
+    "loc": 42,
+    "lloc": 9,
+    "sloc": 16,
+    "comments": 0,
+    "multi": 16,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\flask\\__init__.py": {
+    "loc": 36,
+    "lloc": 9,
+    "sloc": 29,
+    "comments": 0,
+    "multi": 4,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\cli.py": {
+    "loc": 42,
+    "lloc": 22,
+    "sloc": 19,
+    "comments": 2,
+    "multi": 8,
+    "blank": 14,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\extensions\\litestar\\dto.py": {
+    "loc": 553,
+    "lloc": 256,
+    "sloc": 381,
+    "comments": 65,
+    "multi": 55,
+    "blank": 92,
+    "single_comments": 25
+  },
+  "advanced_alchemy\\extensions\\litestar\\exception_handler.py": {
+    "loc": 50,
+    "lloc": 28,
+    "sloc": 40,
+    "comments": 4,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\extensions\\litestar\\providers.py": {
+    "loc": 810,
+    "lloc": 297,
+    "sloc": 613,
+    "comments": 74,
+    "multi": 59,
+    "blank": 114,
+    "single_comments": 24
+  },
+  "advanced_alchemy\\extensions\\litestar\\session.py": {
+    "loc": 487,
+    "lloc": 255,
+    "sloc": 311,
+    "comments": 29,
+    "multi": 62,
+    "blank": 89,
+    "single_comments": 25
+  },
+  "advanced_alchemy\\extensions\\litestar\\store.py": {
+    "loc": 614,
+    "lloc": 301,
+    "sloc": 462,
+    "comments": 33,
+    "multi": 50,
+    "blank": 83,
+    "single_comments": 19
+  },
+  "advanced_alchemy\\extensions\\litestar\\_utils.py": {
+    "loc": 56,
+    "lloc": 15,
+    "sloc": 16,
+    "comments": 4,
+    "multi": 25,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\__init__.py": {
+    "loc": 75,
+    "lloc": 16,
+    "sloc": 74,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\serialization.py": {
+    "loc": 129,
+    "lloc": 70,
+    "sloc": 70,
+    "comments": 8,
+    "multi": 20,
+    "blank": 37,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\_slots_base.py": {
+    "loc": 11,
+    "lloc": 3,
+    "sloc": 5,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\__init__.py": {
+    "loc": 59,
+    "lloc": 20,
+    "sloc": 36,
+    "comments": 0,
+    "multi": 10,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\plugin.py": {
+    "loc": 159,
+    "lloc": 66,
+    "sloc": 127,
+    "comments": 6,
+    "multi": 8,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\__init__.py": {
+    "loc": 13,
+    "lloc": 3,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\asyncio.py": {
+    "loc": 306,
+    "lloc": 162,
+    "sloc": 168,
+    "comments": 11,
+    "multi": 75,
+    "blank": 55,
+    "single_comments": 8
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\common.py": {
+    "loc": 6,
+    "lloc": 5,
+    "sloc": 3,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\engine.py": {
+    "loc": 35,
+    "lloc": 17,
+    "sloc": 11,
+    "comments": 0,
+    "multi": 13,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\sync.py": {
+    "loc": 308,
+    "lloc": 162,
+    "sloc": 168,
+    "comments": 10,
+    "multi": 78,
+    "blank": 55,
+    "single_comments": 7
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\__init__.py": {
+    "loc": 9,
+    "lloc": 4,
+    "sloc": 8,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\sanic\\config.py": {
+    "loc": 526,
+    "lloc": 296,
+    "sloc": 274,
+    "comments": 72,
+    "multi": 141,
+    "blank": 95,
+    "single_comments": 16
+  },
+  "advanced_alchemy\\extensions\\sanic\\extension.py": {
+    "loc": 358,
+    "lloc": 187,
+    "sloc": 183,
+    "comments": 31,
+    "multi": 95,
+    "blank": 76,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\extensions\\sanic\\__init__.py": {
+    "loc": 31,
+    "lloc": 6,
+    "sloc": 30,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\extensions\\starlette\\config.py": {
+    "loc": 511,
+    "lloc": 299,
+    "sloc": 269,
+    "comments": 39,
+    "multi": 119,
+    "blank": 97,
+    "single_comments": 26
+  },
+  "advanced_alchemy\\extensions\\starlette\\extension.py": {
+    "loc": 441,
+    "lloc": 194,
+    "sloc": 190,
+    "comments": 27,
+    "multi": 150,
+    "blank": 99,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\extensions\\starlette\\__init__.py": {
+    "loc": 31,
+    "lloc": 7,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\mixins\\audit.py": {
+    "loc": 30,
+    "lloc": 17,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\mixins\\bigint.py": {
+    "loc": 58,
+    "lloc": 35,
+    "sloc": 39,
+    "comments": 7,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\mixins\\nanoid.py": {
+    "loc": 29,
+    "lloc": 20,
+    "sloc": 19,
+    "comments": 3,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\mixins\\sentinel.py": {
+    "loc": 35,
+    "lloc": 20,
+    "sloc": 26,
+    "comments": 1,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\mixins\\slug.py": {
+    "loc": 43,
+    "lloc": 22,
+    "sloc": 33,
+    "comments": 3,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\mixins\\unique.py": {
+    "loc": 161,
+    "lloc": 63,
+    "sloc": 90,
+    "comments": 0,
+    "multi": 41,
+    "blank": 30,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\mixins\\uuid.py": {
+    "loc": 72,
+    "lloc": 47,
+    "sloc": 48,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\mixins\\__init__.py": {
+    "loc": 20,
+    "lloc": 8,
+    "sloc": 19,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\repository\\typing.py": {
+    "loc": 113,
+    "lloc": 37,
+    "sloc": 44,
+    "comments": 0,
+    "multi": 45,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\repository\\_async.py": {
+    "loc": 3660,
+    "lloc": 1140,
+    "sloc": 2486,
+    "comments": 94,
+    "multi": 763,
+    "blank": 334,
+    "single_comments": 77
+  },
+  "advanced_alchemy\\repository\\_sync.py": {
+    "loc": 3651,
+    "lloc": 1139,
+    "sloc": 2475,
+    "comments": 96,
+    "multi": 763,
+    "blank": 334,
+    "single_comments": 79
+  },
+  "advanced_alchemy\\repository\\_typing.py": {
+    "loc": 91,
+    "lloc": 24,
+    "sloc": 25,
+    "comments": 10,
+    "multi": 37,
+    "blank": 27,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\repository\\_util.py": {
+    "loc": 899,
+    "lloc": 351,
+    "sloc": 478,
+    "comments": 50,
+    "multi": 244,
+    "blank": 137,
+    "single_comments": 40
+  },
+  "advanced_alchemy\\repository\\__init__.py": {
+    "loc": 50,
+    "lloc": 7,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\repository\\memory\\base.py": {
+    "loc": 363,
+    "lloc": 224,
+    "sloc": 223,
+    "comments": 24,
+    "multi": 66,
+    "blank": 68,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\repository\\memory\\_async.py": {
+    "loc": 990,
+    "lloc": 394,
+    "sloc": 794,
+    "comments": 22,
+    "multi": 95,
+    "blank": 97,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\repository\\memory\\_sync.py": {
+    "loc": 991,
+    "lloc": 393,
+    "sloc": 793,
+    "comments": 24,
+    "multi": 95,
+    "blank": 97,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\repository\\memory\\__init__.py": {
+    "loc": 9,
+    "lloc": 3,
+    "sloc": 8,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\routing\\context.py": {
+    "loc": 168,
+    "lloc": 56,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 74,
+    "blank": 47,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\routing\\maker.py": {
+    "loc": 383,
+    "lloc": 133,
+    "sloc": 179,
+    "comments": 6,
+    "multi": 127,
+    "blank": 71,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\routing\\selectors.py": {
+    "loc": 176,
+    "lloc": 62,
+    "sloc": 52,
+    "comments": 1,
+    "multi": 73,
+    "blank": 50,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\routing\\session.py": {
+    "loc": 285,
+    "lloc": 117,
+    "sloc": 126,
+    "comments": 8,
+    "multi": 87,
+    "blank": 63,
+    "single_comments": 9
+  },
+  "advanced_alchemy\\routing\\__init__.py": {
+    "loc": 69,
+    "lloc": 6,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 26,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\service\\pagination.py": {
+    "loc": 26,
+    "lloc": 21,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 3,
+    "blank": 7,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\service\\typing.py": {
+    "loc": 187,
+    "lloc": 17,
+    "sloc": 157,
+    "comments": 10,
+    "multi": 9,
+    "blank": 12,
+    "single_comments": 9
+  },
+  "advanced_alchemy\\service\\_async.py": {
+    "loc": 1445,
+    "lloc": 234,
+    "sloc": 851,
+    "comments": 25,
+    "multi": 449,
+    "blank": 119,
+    "single_comments": 26
+  },
+  "advanced_alchemy\\service\\_sync.py": {
+    "loc": 1444,
+    "lloc": 233,
+    "sloc": 848,
+    "comments": 27,
+    "multi": 449,
+    "blank": 119,
+    "single_comments": 28
+  },
+  "advanced_alchemy\\service\\_util.py": {
+    "loc": 386,
+    "lloc": 141,
+    "sloc": 256,
+    "comments": 14,
+    "multi": 64,
+    "blank": 63,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\service\\__init__.py": {
+    "loc": 108,
+    "lloc": 8,
+    "sloc": 107,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\boolean.py": {
+    "loc": 41,
+    "lloc": 24,
+    "sloc": 23,
+    "comments": 0,
+    "multi": 5,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\datetime.py": {
+    "loc": 37,
+    "lloc": 26,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 3,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\encrypted_string.py": {
+    "loc": 473,
+    "lloc": 166,
+    "sloc": 147,
+    "comments": 11,
+    "multi": 209,
+    "blank": 114,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\types\\guid.py": {
+    "loc": 98,
+    "lloc": 67,
+    "sloc": 73,
+    "comments": 0,
+    "multi": 7,
+    "blank": 17,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\types\\identity.py": {
+    "loc": 4,
+    "lloc": 3,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\types\\json.py": {
+    "loc": 101,
+    "lloc": 65,
+    "sloc": 70,
+    "comments": 6,
+    "multi": 6,
+    "blank": 23,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\types\\mutables.py": {
+    "loc": 111,
+    "lloc": 79,
+    "sloc": 72,
+    "comments": 22,
+    "multi": 9,
+    "blank": 24,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\types\\totp.py": {
+    "loc": 211,
+    "lloc": 69,
+    "sloc": 90,
+    "comments": 1,
+    "multi": 76,
+    "blank": 43,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\types\\vector.py": {
+    "loc": 158,
+    "lloc": 80,
+    "sloc": 82,
+    "comments": 3,
+    "multi": 36,
+    "blank": 40,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\__init__.py": {
+    "loc": 68,
+    "lloc": 15,
+    "sloc": 65,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\types\\file_object\\base.py": {
+    "loc": 180,
+    "lloc": 61,
+    "sloc": 70,
+    "comments": 1,
+    "multi": 70,
+    "blank": 34,
+    "single_comments": 6
+  },
+  "advanced_alchemy\\types\\file_object\\data_type.py": {
+    "loc": 146,
+    "lloc": 72,
+    "sloc": 75,
+    "comments": 8,
+    "multi": 32,
+    "blank": 29,
+    "single_comments": 10
+  },
+  "advanced_alchemy\\types\\file_object\\file.py": {
+    "loc": 502,
+    "lloc": 189,
+    "sloc": 294,
+    "comments": 14,
+    "multi": 106,
+    "blank": 90,
+    "single_comments": 12
+  },
+  "advanced_alchemy\\types\\file_object\\registry.py": {
+    "loc": 115,
+    "lloc": 70,
+    "sloc": 65,
+    "comments": 0,
+    "multi": 23,
+    "blank": 22,
+    "single_comments": 5
+  },
+  "advanced_alchemy\\types\\file_object\\session_tracker.py": {
+    "loc": 209,
+    "lloc": 139,
+    "sloc": 149,
+    "comments": 14,
+    "multi": 10,
+    "blank": 28,
+    "single_comments": 22
+  },
+  "advanced_alchemy\\types\\file_object\\_typing.py": {
+    "loc": 44,
+    "lloc": 26,
+    "sloc": 21,
+    "comments": 12,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 8
+  },
+  "advanced_alchemy\\types\\file_object\\_utils.py": {
+    "loc": 83,
+    "lloc": 37,
+    "sloc": 45,
+    "comments": 3,
+    "multi": 20,
+    "blank": 15,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\types\\file_object\\__init__.py": {
+    "loc": 28,
+    "lloc": 7,
+    "sloc": 17,
+    "comments": 0,
+    "multi": 7,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\fsspec.py": {
+    "loc": 304,
+    "lloc": 139,
+    "sloc": 169,
+    "comments": 45,
+    "multi": 73,
+    "blank": 46,
+    "single_comments": 16
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\obstore.py": {
+    "loc": 348,
+    "lloc": 161,
+    "sloc": 202,
+    "comments": 33,
+    "multi": 75,
+    "blank": 57,
+    "single_comments": 14
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\types\\password_hash\\argon2.py": {
+    "loc": 88,
+    "lloc": 39,
+    "sloc": 32,
+    "comments": 1,
+    "multi": 32,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\types\\password_hash\\base.py": {
+    "loc": 225,
+    "lloc": 73,
+    "sloc": 58,
+    "comments": 4,
+    "multi": 105,
+    "blank": 58,
+    "single_comments": 4
+  },
+  "advanced_alchemy\\types\\password_hash\\one_time_code.py": {
+    "loc": 257,
+    "lloc": 103,
+    "sloc": 122,
+    "comments": 0,
+    "multi": 78,
+    "blank": 49,
+    "single_comments": 8
+  },
+  "advanced_alchemy\\types\\password_hash\\passlib.py": {
+    "loc": 84,
+    "lloc": 35,
+    "sloc": 28,
+    "comments": 3,
+    "multi": 33,
+    "blank": 21,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\types\\password_hash\\pwdlib.py": {
+    "loc": 79,
+    "lloc": 35,
+    "sloc": 28,
+    "comments": 2,
+    "multi": 29,
+    "blank": 20,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\types\\password_hash\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\utils\\cli_tools.py": {
+    "loc": 227,
+    "lloc": 124,
+    "sloc": 142,
+    "comments": 9,
+    "multi": 27,
+    "blank": 53,
+    "single_comments": 5
+  },
+  "advanced_alchemy\\utils\\dataclass.py": {
+    "loc": 161,
+    "lloc": 61,
+    "sloc": 76,
+    "comments": 2,
+    "multi": 46,
+    "blank": 36,
+    "single_comments": 3
+  },
+  "advanced_alchemy\\utils\\dependencies.py": {
+    "loc": 268,
+    "lloc": 187,
+    "sloc": 154,
+    "comments": 4,
+    "multi": 36,
+    "blank": 50,
+    "single_comments": 28
+  },
+  "advanced_alchemy\\utils\\deprecation.py": {
+    "loc": 109,
+    "lloc": 39,
+    "sloc": 67,
+    "comments": 6,
+    "multi": 22,
+    "blank": 20,
+    "single_comments": 0
+  },
+  "advanced_alchemy\\utils\\fixtures.py": {
+    "loc": 312,
+    "lloc": 139,
+    "sloc": 157,
+    "comments": 33,
+    "multi": 75,
+    "blank": 54,
+    "single_comments": 26
+  },
+  "advanced_alchemy\\utils\\module_loader.py": {
+    "loc": 92,
+    "lloc": 42,
+    "sloc": 41,
+    "comments": 2,
+    "multi": 27,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "advanced_alchemy\\utils\\portals.py": {
+    "loc": 201,
+    "lloc": 119,
+    "sloc": 111,
+    "comments": 16,
+    "multi": 30,
+    "blank": 42,
+    "single_comments": 18
+  },
+  "advanced_alchemy\\utils\\serialization.py": {
+    "loc": 1364,
+    "lloc": 640,
+    "sloc": 683,
+    "comments": 51,
+    "multi": 300,
+    "blank": 304,
+    "single_comments": 77
+  },
+  "advanced_alchemy\\utils\\singleton.py": {
+    "loc": 32,
+    "lloc": 12,
+    "sloc": 9,
+    "comments": 9,
+    "multi": 8,
+    "blank": 8,
+    "single_comments": 7
+  },
+  "advanced_alchemy\\utils\\sync_tools.py": {
+    "loc": 371,
+    "lloc": 204,
+    "sloc": 199,
+    "comments": 21,
+    "multi": 63,
+    "blank": 86,
+    "single_comments": 23
+  },
+  "advanced_alchemy\\utils\\text.py": {
+    "loc": 71,
+    "lloc": 26,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 28,
+    "blank": 17,
+    "single_comments": 1
+  },
+  "advanced_alchemy\\utils\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "advanced_alchemy\\base.py": {
+    "mi": 49.05631640596771,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cli.py": {
+    "mi": 43.860644031175276,
+    "rank": "A"
+  },
+  "advanced_alchemy\\exceptions.py": {
+    "mi": 60.617522395818824,
+    "rank": "A"
+  },
+  "advanced_alchemy\\filters.py": {
+    "mi": 33.02632540200487,
+    "rank": "A"
+  },
+  "advanced_alchemy\\operations.py": {
+    "mi": 45.725114945485196,
+    "rank": "A"
+  },
+  "advanced_alchemy\\typing.py": {
+    "mi": 87.11488048446321,
+    "rank": "A"
+  },
+  "advanced_alchemy\\_listeners.py": {
+    "mi": 27.739804301762913,
+    "rank": "A"
+  },
+  "advanced_alchemy\\_serialization.py": {
+    "mi": 97.69123266532749,
+    "rank": "A"
+  },
+  "advanced_alchemy\\_typing.py": {
+    "mi": 58.04350180329145,
+    "rank": "A"
+  },
+  "advanced_alchemy\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\__main__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\__metadata__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\alembic\\commands.py": {
+    "mi": 67.42027001101698,
+    "rank": "A"
+  },
+  "advanced_alchemy\\alembic\\utils.py": {
+    "mi": 70.90960437955026,
+    "rank": "A"
+  },
+  "advanced_alchemy\\alembic\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\alembic\\templates\\asyncio\\env.py": {
+    "mi": 80.04050670735424,
+    "rank": "A"
+  },
+  "advanced_alchemy\\alembic\\templates\\sync\\env.py": {
+    "mi": 80.75311090913542,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cache\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cache\\manager.py": {
+    "mi": 37.8148093168363,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cache\\serializers.py": {
+    "mi": 78.47640849942415,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cache\\_null.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\cache\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\asyncio.py": {
+    "mi": 70.51504599555157,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\common.py": {
+    "mi": 54.16342894149574,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\engine.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\routing.py": {
+    "mi": 76.78506392667111,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\sync.py": {
+    "mi": 71.38249095388882,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\types.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\config\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\fastapi\\cli.py": {
+    "mi": 94.100356828724,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\fastapi\\config.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\fastapi\\extension.py": {
+    "mi": 75.01555881920055,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\fastapi\\providers.py": {
+    "mi": 43.617104888337046,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\fastapi\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\flask\\cli.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\flask\\config.py": {
+    "mi": 57.62036103230755,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\flask\\extension.py": {
+    "mi": 61.3971852773995,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\flask\\utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\flask\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\cli.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\dto.py": {
+    "mi": 42.38211325235512,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\exception_handler.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\providers.py": {
+    "mi": 46.28294872035369,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\session.py": {
+    "mi": 44.837804546077706,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\store.py": {
+    "mi": 34.350603174675484,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\serialization.py": {
+    "mi": 71.55491106509788,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\_slots_base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\plugin.py": {
+    "mi": 63.219062902166144,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\asyncio.py": {
+    "mi": 59.04418752792494,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\common.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\engine.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\sync.py": {
+    "mi": 59.08408973991964,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\litestar\\plugins\\init\\config\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\sanic\\config.py": {
+    "mi": 46.25616203467622,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\sanic\\extension.py": {
+    "mi": 57.569117205383115,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\sanic\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\starlette\\config.py": {
+    "mi": 44.46781019949157,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\starlette\\extension.py": {
+    "mi": 54.470974133132216,
+    "rank": "A"
+  },
+  "advanced_alchemy\\extensions\\starlette\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\audit.py": {
+    "mi": 68.01417779800212,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\bigint.py": {
+    "mi": 75.52457276296545,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\nanoid.py": {
+    "mi": 80.45848775609622,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\sentinel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\slug.py": {
+    "mi": 84.90390899761707,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\unique.py": {
+    "mi": 77.9871751633095,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\uuid.py": {
+    "mi": 71.21258116108137,
+    "rank": "A"
+  },
+  "advanced_alchemy\\mixins\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\typing.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\_async.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "advanced_alchemy\\repository\\_sync.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "advanced_alchemy\\repository\\_typing.py": {
+    "mi": 73.40221843778858,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\_util.py": {
+    "mi": 37.88101792958151,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\memory\\base.py": {
+    "mi": 47.23115155930674,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\memory\\_async.py": {
+    "mi": 22.685987526712406,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\memory\\_sync.py": {
+    "mi": 22.858414771121495,
+    "rank": "A"
+  },
+  "advanced_alchemy\\repository\\memory\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\routing\\context.py": {
+    "mi": 71.92790497588422,
+    "rank": "A"
+  },
+  "advanced_alchemy\\routing\\maker.py": {
+    "mi": 61.08359393452747,
+    "rank": "A"
+  },
+  "advanced_alchemy\\routing\\selectors.py": {
+    "mi": 68.69053224146938,
+    "rank": "A"
+  },
+  "advanced_alchemy\\routing\\session.py": {
+    "mi": 64.85851934593141,
+    "rank": "A"
+  },
+  "advanced_alchemy\\routing\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\pagination.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\typing.py": {
+    "mi": 87.44718629378175,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\_async.py": {
+    "mi": 47.692519023696576,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\_sync.py": {
+    "mi": 47.73683841956359,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\_util.py": {
+    "mi": 54.14064432701209,
+    "rank": "A"
+  },
+  "advanced_alchemy\\service\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\boolean.py": {
+    "mi": 81.56666308610666,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\datetime.py": {
+    "mi": 76.65674945607933,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\encrypted_string.py": {
+    "mi": 44.618784331864774,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\guid.py": {
+    "mi": 57.11804962257824,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\identity.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\json.py": {
+    "mi": 64.59920565874938,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\mutables.py": {
+    "mi": 82.12861900966999,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\totp.py": {
+    "mi": 73.77598329258741,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\vector.py": {
+    "mi": 75.79590012960627,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\data_type.py": {
+    "mi": 74.10927172662186,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\file.py": {
+    "mi": 50.85727910565426,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\registry.py": {
+    "mi": 73.17596722223203,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\session_tracker.py": {
+    "mi": 53.28280436523815,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\_typing.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\_utils.py": {
+    "mi": 79.49158941790866,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\fsspec.py": {
+    "mi": 58.97771162090985,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\obstore.py": {
+    "mi": 56.79856196523078,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\file_object\\backends\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\argon2.py": {
+    "mi": 83.37460643687139,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\base.py": {
+    "mi": 55.60155109831441,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\one_time_code.py": {
+    "mi": 64.08900730163718,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\passlib.py": {
+    "mi": 83.6781595377599,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\pwdlib.py": {
+    "mi": 86.84022495198184,
+    "rank": "A"
+  },
+  "advanced_alchemy\\types\\password_hash\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\cli_tools.py": {
+    "mi": 57.35645801039779,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\dataclass.py": {
+    "mi": 72.69590886050224,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\dependencies.py": {
+    "mi": 53.385595799962545,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\deprecation.py": {
+    "mi": 81.47054650059798,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\fixtures.py": {
+    "mi": 56.75720638751636,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\module_loader.py": {
+    "mi": 81.51533711683183,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\portals.py": {
+    "mi": 63.66034585692895,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\serialization.py": {
+    "mi": 21.03947658419884,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\singleton.py": {
+    "mi": 79.78131469086713,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\sync_tools.py": {
+    "mi": 59.78329201959521,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\text.py": {
+    "mi": 81.89896550362532,
+    "rank": "A"
+  },
+  "advanced_alchemy\\utils\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  }
+}
